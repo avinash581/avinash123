@@ -7,7 +7,7 @@ void biggest2() {
     
     if(a > b) 
     {
-        printf("%d is Largest\n", a);          
+        printf("%d\n is Largest\n", a);          
     } 
     else if (b > a)
     { 
